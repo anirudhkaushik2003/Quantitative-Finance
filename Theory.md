@@ -1,5 +1,5 @@
 ### Option
- - The right but not compulsion to buy or sell a stock/item at a fixed price
+ - The right but not obligation to buy or sell a stock/item at a fixed price
 
 ### Call option
  - The right to buy a stock/item at a fixed price
