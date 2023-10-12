@@ -65,3 +65,6 @@ $$Amount = Principal\biggl ( 1 + \frac{rate}{n}\biggr )^{nt} $$
 
  ## [Arbitrage Pricing Theory (APT)](https://www.investopedia.com/terms/a/apt.asp)
   - A pricing model that predicts a return using the relationship between an expected return and macroeconomic factors
+  - Arbitrage pricing theory (APT) is a multi-factor asset pricing model based on the idea that an asset's returns can be predicted using the linear relationship between the asset’s expected return and a number of macroeconomic variables that capture systematic risk. It is a useful tool for analyzing portfolios from a value investing perspective, in order to identify securities that may be temporarily mispriced.
+
+  $$E(R)_i = E(R)_z + (E(I) - E(R)_z) \times \beta_n $$
