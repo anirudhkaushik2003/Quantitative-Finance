@@ -68,3 +68,7 @@ $$Amount = Principal\biggl ( 1 + \frac{rate}{n}\biggr )^{nt} $$
   - Arbitrage pricing theory (APT) is a multi-factor asset pricing model based on the idea that an asset's returns can be predicted using the linear relationship between the asset’s expected return and a number of macroeconomic variables that capture systematic risk. It is a useful tool for analyzing portfolios from a value investing perspective, in order to identify securities that may be temporarily mispriced.
 
   $$E(R)_i = E(R)_z + (E(I) - E(R)_z) \times \beta_n $$
+   - Here, $E(R)_i$ is the expected return of the asset, $R_z$ is the risk-free rate of return, $E(I)$ is the expected return of the market and $\beta_n$ is the sensitivity of the asset to the $n^{th}$ macroeconomic factor. E_i is the risk premium associated with factor i.
+   - The beta coefficients in the APT model are estimated by using linear regression. In general historical securities returns as regressed on the factor to estimate its beta.
+
+   - Developed as an alternative to Capital Asset Pricing Model (CAPM).
