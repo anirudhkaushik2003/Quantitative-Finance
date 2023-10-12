@@ -53,7 +53,7 @@ $$Amount = Principal\biggl ( 1 + \frac{rate}{n}\biggr )^{nt} $$
  - After the expiration period, the portfolio will be worthless regardless of the final price of the stock. 
 
 
-## \href[Arbitrage](https://www.investopedia.com/terms/a/arbitrage.asp)
+## [Arbitrage](https://www.investopedia.com/terms/a/arbitrage.asp)
  - Simultaneous purchase and sale of an asset in different markets to exploit any tiny differences in their prices
  - Abitrage trades are made in stocks, commodities and currencies
  - Abitrage takes advantage of the inevitable inefficiences in markets
@@ -62,3 +62,6 @@ $$Amount = Principal\biggl ( 1 + \frac{rate}{n}\biggr )^{nt} $$
  - Arbitrage provides a mechanism to ensure that prices do not deviate substantially from fair value for long periods of time. With advancements in technology, it has become extremely difficult to profit from pricing errors in the market. Many traders have computerized trading systems set to monitor fluctuations in similar financial instruments. Any inefficient pricing setups are usually acted upon quickly, and the opportunity is eliminated, often in a matter of seconds.
  - Arbitrage is a condition where you can simultaneously buy and sell the same or similar product or asset at different prices, resulting in a risk-free profit.
  - Economic theory states that arbitrage should not be able to occur because if markets are efficient, there would be no such opportunities to profit. However, in reality, markets can be inefficient and arbitrage can happen. When arbitrageurs identify and then correct such mispricings (by buying them low and selling them high), though, they work to move prices back in line with market efficiency. This means that any arbitrage opportunities that do occur are short-lived.
+
+ ## [Arbitrage Pricing Theory (APT)](https://www.investopedia.com/terms/a/apt.asp)
+  - A pricing model that predicts a return using the relationship between an expected return and macroeconomic factors
