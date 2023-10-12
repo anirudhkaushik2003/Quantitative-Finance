@@ -53,7 +53,7 @@ $$Amount = Principal\biggl ( 1 + \frac{rate}{n}\biggr )^{nt} $$
  - After the expiration period, the portfolio will be worthless regardless of the final price of the stock. 
 
 
-## \href(Arbitrage)(https://www.investopedia.com/terms/a/arbitrage.asp)
+## \href[Arbitrage](https://www.investopedia.com/terms/a/arbitrage.asp)
  - Simultaneous purchase and sale of an asset in different markets to exploit any tiny differences in their prices
  - Abitrage trades are made in stocks, commodities and currencies
  - Abitrage takes advantage of the inevitable inefficiences in markets
